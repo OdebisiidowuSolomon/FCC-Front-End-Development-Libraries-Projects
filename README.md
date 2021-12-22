@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Live Site [Here](https://61c0dfb91961e14922f69bbf--inspiring-khorana-30f2be.netlify.app/)
+Live Site [Here](https://61c331da18845e2a792f6c68--admiring-davinci-0ff635.netlify.app/)
 
 ## Available Scripts
 
